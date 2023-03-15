@@ -1,0 +1,9 @@
+{
+  "qty_symbols": 5,
+  "version": "Version: 3",
+  "log_file_name": "test.log",
+  "screenshot_name": "screenshot.png",
+  "data": "variant",
+  "test_variant": 3,
+  "get_token": "http://localhost:8080/api/token/get"
+}
