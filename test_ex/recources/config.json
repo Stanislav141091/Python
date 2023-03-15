@@ -3,7 +3,7 @@
   "time": 20,
   "browser_incognito_mod": "False",
   "browser_full_screen": "True",
-  "login": "login",
-  "password": "password",
+  "login": "",
+  "password": "",
   "browser": "Chrome"
 }
